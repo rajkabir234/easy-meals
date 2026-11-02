@@ -13,4 +13,3 @@ Import this repository into Vercel. Select Other for the framework, leave the bu
 ## Content
 
 Page content and interactions are in `dist/app.js`, styles in `dist/style.css`, and shared markup in `dist/index.html`. The enquiry form prepares an email in the visitor's email application; it does not store or send enquiries through a server. Food photographs are illustrative stock imagery.
-
